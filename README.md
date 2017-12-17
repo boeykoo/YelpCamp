@@ -6,4 +6,10 @@ YelpCamp is a full-stack Node.js project which allows users to sign up, login, e
 * Using <Strong>MongoDB(NoSQL)</Strong> to implement the database to store users information and their posted data
 * Deployed the server on <Strong>Heroku</Strong>.
 ## Landing Page
-![](landing.png)
+![](/showPics/landing.png)
+
+## Campgrounds Overview
+![](/showPics/campgrounds.png)
+
+## Campground Show Page
+![](/showPics/show.png)
